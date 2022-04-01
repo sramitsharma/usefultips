@@ -1,0 +1,5 @@
+#Page up/page down
+"\e[B": history-search-forward
+"\e[A": history-search-backward
+
+$include /etc/inputrc
